@@ -1,4 +1,4 @@
-# 🚀 Absolutely Awesome React Components & Libraries
+# 🚀 Absolutely Awesome React Components & Libraries (My Favourite)
 
 This is a list of AWESOME components. Nope, it's NOT a comprehensive list of
 every React component under the sun. So, what does "awesome" mean? Well:
